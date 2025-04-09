@@ -10,8 +10,9 @@
  
    Archivo con el codigo: [Caso1 Codigo ](Actividad_1_Caso_1.ipynb)
    
-    1. Desarrollado el caso 1 del año pasado en Python usando jupyter local porque google colab me restringue.
-    2. Lo siguiente es actualizar los valores para analizar el comportamiento con nuevos parametros.
+    Item 1: terminado
+    Item 2: no empezado
+    Item 3: no empezado
         
    > [Caso 2]( https://docs.google.com/document/d/1llY7UVRW3fGKIITUCpEvVFjhMJ9Z-2U0c10c8aaSM_8/edit?usp=sharing): Sistema lineal de tres variables de estado.
       
