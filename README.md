@@ -6,17 +6,26 @@
    desarrolla un pdf con los informes para cada caso y se sube un archivo a cada caso, todo va a estar 
    en link adjuntos.
 
-   > [Caso 1]( https://docs.google.com/document/d/1KZYYT7esHmJAt3pkEX0mvPm0SGv5gl7VoEHAGjFdfi0/edit?usp=sharing): Sistema lineal de dos variables de estado.
+> [Caso 1]( https://docs.google.com/document/d/1KZYYT7esHmJAt3pkEX0mvPm0SGv5gl7VoEHAGjFdfi0/edit?usp=sharing): Sistema lineal de dos variables de estado.
  
-   Archivo con el codigo: [Caso1 Codigo ](Actividad_1_Caso_1.ipynb)
+    Codigos. 
    
-    Item 1: terminado
-    Item 2: no empezado
-    Item 3: no empezado
+   [Item [1]](1.1.ipynb) : Falta pulir pero esta casi listo.
+   
+   [Item [2]](1.2.ipynb) : Falta pulir pero esta casi listo.
+   
+   [Item [3]](1.3.ipynb) : No empezado
+
+   
         
-   > [Caso 2]( https://docs.google.com/document/d/1llY7UVRW3fGKIITUCpEvVFjhMJ9Z-2U0c10c8aaSM_8/edit?usp=sharing): Sistema lineal de tres variables de estado.
+> [Caso 2]( https://docs.google.com/document/d/1llY7UVRW3fGKIITUCpEvVFjhMJ9Z-2U0c10c8aaSM_8/edit?usp=sharing): Sistema lineal de tres variables de estado.
       
-   Archivo con el codigo: [Caso 2 Codigo]((Actividad_1_Caso_2.ipynb))
+   [Item [4]](1.1.ipynb) : No empezado
    
-    No empezado
-        
+   [Item [5]](1.2.ipynb) : No empezado
+   
+   [Item [6]](1.3.ipynb) : No empezado
+
+   [Item [7]](1.1.ipynb) : No empezado
+   
+  
