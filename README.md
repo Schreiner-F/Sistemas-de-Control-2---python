@@ -29,5 +29,6 @@
    [Item [6]](1.3.ipynb) : No empezado
 
    [Item [7]](1.1.ipynb) : No empezado
-   
+
+   [Item [8]](1.1.ipynb) : No empezado
   
