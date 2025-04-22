@@ -14,7 +14,7 @@
    
    [Item [2]](1.2.ipynb) : Falta pulir pero esta casi listo.
    
-   [Item [3]](1.3.ipynb) : No empezado
+   [Item [3]](1.3.ipynb) : Falta pulir pero esta casi listo.
 
    
         
@@ -22,13 +22,13 @@
 
    :arrow_down: Codigos.
   
-   [Item [4]](1.1.ipynb) : No empezado
+   [Item [4]](1.1.ipynb) : Falta pulir pero esta casi listo, falta subirlo aca que lo tengo en jupyter local.
    
-   [Item [5]](1.2.ipynb) : No empezado
+   [Item [5]](1.2.ipynb) : Falta pulir pero esta casi listo, falta subirlo aca que lo tengo en jupyter local.
    
-   [Item [6]](1.3.ipynb) : No empezado
+   [Item [6]](1.3.ipynb) : Falta pulir pero esta casi listo, falta subirlo aca que lo tengo en jupyter local.
 
-   [Item [7]](1.1.ipynb) : No empezado
+   [Item [7]](2.17.ipynb) : Falta pulir pero esta casi listo
 
    [Item [8]](1.1.ipynb) : No empezado
   
