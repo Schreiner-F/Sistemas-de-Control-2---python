@@ -28,7 +28,7 @@
    
    [Item [6]](1.3.ipynb) : Falta pulir pero esta casi listo, falta subirlo aca que lo tengo en jupyter local.
 
-   [Item [7]](2.17.ipynb) : Falta pulir pero esta casi listo
+   [Item [7]](2_7.ipynb) : Falta pulir pero esta casi listo
 
    [Item [8]](1.1.ipynb) : No empezado
   
